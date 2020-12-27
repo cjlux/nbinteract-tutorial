@@ -1,3 +1,4 @@
 numpy
 ipywidgets
 nbinteract
+tensorflow=2.1.0
